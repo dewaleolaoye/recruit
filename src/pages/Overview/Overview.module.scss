@@ -2,11 +2,17 @@
   img {
     // width: 100%;
     height: 100px;
+    margin-bottom: 1rem;
   }
 
   .header {
     margin: 0 auto;
     max-width: 420px;
     width: 100%;
+
+    h1,
+    p {
+      text-align: center;
+    }
   }
 }

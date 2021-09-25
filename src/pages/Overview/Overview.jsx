@@ -19,8 +19,8 @@ const Overview = () => {
     <div className={styles.overview}>
       <div className={styles.header}>
         <img
-          src="https://res.cloudinary.com/dewaleolaoye/image/upload/v1631620052/tellerOneBlue2_l3qkck.png"
-          alt="teller one"
+          src="https://cloudinary-res.cloudinary.com/image/upload/dpr_2.0,c_scale,f_auto,q_auto,w_156/cloudinary_logo_for_white_bg.svg"
+          alt="cloudinary"
         />
 
         <h1>Senior React Developer</h1>
